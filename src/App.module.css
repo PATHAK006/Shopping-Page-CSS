@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: middle;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1920px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}

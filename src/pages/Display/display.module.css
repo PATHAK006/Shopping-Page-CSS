@@ -1,0 +1,36 @@
+.products__main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.product__list {
+  margin-top: 2.5rem;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.products__image {
+  border: 1px solid black;
+}
+
+.product__cart img {
+  height: 25px;
+}
+
+.product__name__cart {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem auto;
+}
+
+.product__name {
+  flex: 1;
+}
+
+.price p {
+  display: block;
+  margin: 0.4rem auto;
+}
